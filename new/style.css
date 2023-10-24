@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.link_div {
+    width: 30%;
+    float: left;
+    height: 50px;
+    margin-bottom: 100px;
+}
+
+.link {
+    width: 80%;
+    height: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #bc0068;
+    font-size: 45px;
+    color: azure;
+    text-decoration: none;
+    display: grid;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.back_div {
+    width: 100%;
+    float: left;
+    height: 20px;
+    padding-bottom: 50px;
+}
+
+.back_link {
+    width: 150px;
+    background: #b5b5b5;
+    font-size: 35px;
+    color: #353535;
+    text-decoration: none;
+    display: grid;
+    text-align: center;
+    border-radius: 5px;
+}
+
